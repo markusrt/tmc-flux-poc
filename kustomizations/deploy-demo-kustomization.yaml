@@ -11,6 +11,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: demodeploy
-    namespace: default
-  targetNamespace: tanzu-continuousdelivery-resources
+    namespace: tanzu-continuousdelivery-resources
+  targetNamespace: default
 
