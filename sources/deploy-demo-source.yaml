@@ -4,7 +4,7 @@ kind: GitRepository
 metadata:
   name: demodeploy
   namespace: tanzu-continuousdelivery-resources
-  tmc.cloud.vmware.com/managed-git-repository-name: demodeploy
+  # tmc.cloud.vmware.com/managed-git-repository-name: demodeploy
 spec:
   interval: 1m0s
   ref:
